@@ -8,5 +8,6 @@ Secretary
      Password: physics 
      (Or any other department name or password)
      
-     
-Please import the folder within the zip file in eclipse workspace
+Application built using Java Swing (GUI).
+
+Please import thes files in eclipse workspace.
